@@ -1,6 +1,6 @@
 #  🚀Hosting videos for your online application
 
-*View Live [here](https://recapioz.vercel.app/)*
+*View Live [here](https://video-hosting-video-player.vercel.app/)* 
 
 
 This repo gives a preview of some of the popular video hosting options for your platform. They include video hosting platforms, cloud-storage services, and self-hosting.
