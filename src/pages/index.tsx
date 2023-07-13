@@ -62,7 +62,7 @@ const Home = () => {
             </Text>
             <iframe
               title="vimeo-player"
-              src="https://res.cloudinary.com/dj9qwmcrb/video/upload/v1689256188/2_Min_Background_Music_-_Chase_Game_Suspense_Action_Epic_qzds6b.mp4"
+              src="https://player.vimeo.com/video/844896946?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
               width="640"
               height="360"
               style={{ border: 0, marginBottom: '40px' }}
