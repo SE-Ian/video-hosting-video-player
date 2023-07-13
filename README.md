@@ -1,19 +1,17 @@
-#  🚀recapio
+#  🚀Hosting videos for your online application
+
+*View Live [here](https://recapioz.vercel.app/)*
 
 
-Recapio is a Next.js application with a fully functional authentication system using Firebase v9, Typescript, React, ChakraUI & Jotai.
+This repo gives a preview of some of the popular video hosting options for your platform. They include video hosting platforms, cloud-storage services, and self-hosting.
+
+Here, we will focus on the video hosting platforms namely Vimeo, Wistia, and YouTube, all of which we are on the Freemium plan.
 
 # Features
-- Firebase v9 for External provider Auth (Google) and Email/Password native providers
-- Sign-in with Google
-- Sign-in with Email/Password
-- Confirm password
-- Password strength protections
-- Ability to view the password in plaintext
-- "Forgot your password?" Flow
-- Sign-out
-- Styling with ChakraUI
-- Global state management for the Auth modal with Jotai
+- We have a preview user page after the user gets signed in.
+- A preview of the video players offered by different video hosting platforms - Vimeo video player, Wistia video player, and YouTube player.
+- All these have shown videos hosted on different video hosting platforms.
+- This will help in making informed decisions about your choice of video hosting platforms, and the players it come built-in with.
 
 # Getting Started
 1. Clone this repo and install the dependencies
@@ -24,22 +22,10 @@ npm install
 yarn install
 ```
 
-2. Create a new project in [Firebase](https://firebase.google.com/) and set it up for Firebase Auth.
-3. Set the .env variables and set each variable with your own unique values from the config file.
-4. Install the Firebase CLI
-```
-npm install -g firebase-tools
-#or
-yarn global add firebase-tools
-```
-5. Run the dev server
+2. Run the dev server
 ```
 npm run dev
 #or
 yarn dev
 ```
-6. Open [localhost](http://localhost:3000) and taaaddddaaaaaaaaaaa!
-
-![Preview page](/public/images/page.png)
-
-*View Live [here](https://recapioz.vercel.app/)*
+3. Open [localhost](http://localhost:3000).
