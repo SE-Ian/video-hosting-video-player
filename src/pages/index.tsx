@@ -15,7 +15,7 @@ const Home = () => {
         hour: '2-digit',
         hour12: false,
       })
-      return parseInt(formatter.format(date), 10)
+      return parseInt(formatter.format(date))
     }
 
     const getGreeting = () => {
